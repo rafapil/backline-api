@@ -1,2 +1,6 @@
-package com.rafaelfilgueiras.backline.api.model;public enum MovimentacaoTipo {
+package com.rafaelfilgueiras.backline.api.model;
+
+public enum MovimentacaoTipo {
+    RECEITA,
+    DESPESA
 }
